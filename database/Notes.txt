@@ -1,0 +1,11 @@
+USERS.SQL
+The table users.sql is pointed to the facebook Aouth API, this in future needs to all combine with the main users table which
+is the kusers_tbl.sql
+
+
+KUSERS_TBL.sql
+
+This is the main table to hold the users which are separated based on the field "usertype".
+
+
+Email - lnshrestha19@gmail.com
